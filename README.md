@@ -1,2 +1,2 @@
 # Doubly-linked-list
-S
+Abstract data type "Doubly linked list". Adding a new element, deleting an element, inserting an element, determining the address of the last element, determining the length of the list (number of elements), splitting the list into two, merging two lists, writing to a file and reading from the file information fields of elements. SUBJECT structure with fields: name, year, faculty, department, number of hours.
